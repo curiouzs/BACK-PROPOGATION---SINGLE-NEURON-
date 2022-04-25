@@ -65,6 +65,10 @@ print(w)
 
 ```
 
+# OUTPUT :
+
+<img width="766" alt="ep7" src="https://user-images.githubusercontent.com/75234646/165086140-cd947685-2f62-4991-8dcc-37453b4774c9.png">
+
 
 
 # RESULT:
