@@ -24,13 +24,9 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 # ALGORITHM:
 
 1.Inputs X, arrive through the preconnected path.
-
 2.Input is modeled using real weights W. The weights are usually randomly selected.
-
 3.Calculate the output for every neuron from the input layer, to the hidden layers, to the output layer.
-
 4.Calculate the error in the outputs.
-
 5.Travel back from the output layer to the hidden layer to adjust the weights such that the error is decreased.
 
 Keep repeating the process until the desired output is achieved.
