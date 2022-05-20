@@ -1,6 +1,6 @@
-# EXP.NO : 07
+# EXP.NO : 04
 
-# DATE: 
+# DATE: 11.04.22
 
 # <p align="center"> BACK-PROPOGATION---SINGLE-NEURON </p>
 
