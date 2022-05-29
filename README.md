@@ -20,7 +20,6 @@ Backward propagation:
 Backpropagation (backward propagation) is an important mathematical tool for improving the accuracy of predictions in data mining and machine learning. Essentially, backpropagation is an algorithm used to calculate derivatives quickly.
 
 # ALGORITHM:
-
 1.Inputs X, arrive through the preconnected path.<br />
 2.Input is modeled using real weights W. The weights are usually randomly selected.<br />
 3.Calculate the output for every neuron from the input layer, to the hidden layers, to the output layer.<br />
@@ -30,10 +29,9 @@ Keep repeating the process until the desired output is achieved.
 
 # PROGRAM:
 ```python 
-Program to implement random classification.
-Developed by   : LOKESH KRISHNAA M
-Register Number :  212220230030
-
+#Program to implement random classification.
+#Developed by   : LOKESH KRISHNAA M
+#Register Number :  212220230030
 import numpy as np
 i=1.5    
 w_o=0.8  
@@ -42,8 +40,7 @@ r=0.01
 def dc_dw(a,y,i):
   dc_da=2*(a-y)
   da_dw=i
-  return dc_da*da_dw
-  
+  return dc_da*da_dw 
 w=[w_o]
 a=[w_o*i]
 for j in range(0,100):
