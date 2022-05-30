@@ -1,5 +1,6 @@
 ### EXP.NO : 04
 ### DATE: 11.04.22
+
 # <p align="center"> BACK-PROPOGATION---SINGLE-NEURON </p>
 
 # AIM:
@@ -26,6 +27,13 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 4.Calculate the error in the outputs.<br />
 5.Travel back from the output layer to the hidden layer to adjust the weights such that the error is decreased.<br />
 Keep repeating the process until the desired output is achieved.
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # PROGRAM:
 ```python 
